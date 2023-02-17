@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://raw.githubusercontent.com/Promise111/Todo-App-Rtk/main/src/assets/Screenshot%202023-02-17%20at%2013.05.32.png" alt="Application Image" />
 
 ## Available Scripts
 
