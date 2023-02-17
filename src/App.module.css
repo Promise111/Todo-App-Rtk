@@ -1,0 +1,15 @@
+.App {
+  max-width: 80%;
+  height: auto;
+  margin: 5rem auto;
+  padding: 50px;
+  background-color: rgba(16, 15, 15, 0.883);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.App > h1 {
+  color: rgba(255, 255, 255, 0.891);
+  text-align: center;
+  margin: 0 0 1rem 0;
+}
