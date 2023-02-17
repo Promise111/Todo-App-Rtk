@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Description
 
-CRA app to persist todo, mark as done and delete todo when confirmed. App wide states managed with the context API
+CRA app to persist todo, mark as done and delete todo when confirmed. App wide states managed with the Redux Toolkit.
 
 <img src="https://raw.githubusercontent.com/Promise111/Todo-App-Rtk/main/src/assets/Screenshot%202023-02-17%20at%2013.05.32.png" alt="Application Image" />
 
